@@ -16,6 +16,6 @@ tags:
     </section>
     <section class="project-img">
         <h3>The following are screenshots of the final product</h3>
-        <img src="images/gohs about.jpg" alt="The About Page">
-        <img src="images/gohs episodes.jpg" alt="episodes">
+        <img src="/images/gohs about.jpg" alt="The About Page">
+        <img src="/images/gohs episodes.jpg" alt="episodes">
     </section>
