@@ -18,7 +18,7 @@ tags:
           </figure> 
       </div>
       <div class="column">
-        <form action="/action_page.php">
+        <form data-netlify="true" data-netlify-recaptcha="true">
           <label for="fname">First Name</label>
           <input type="text" id="fname" name="firstname" placeholder="Your name..">
           <label for="lname">Last Name</label>
